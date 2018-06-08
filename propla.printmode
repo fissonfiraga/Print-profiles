@@ -1,0 +1,1 @@
+{"version":"5.10.2","name":"ProPLA","settings":{"doRaft":true,"extruderProfiles>0>defaultTemperature":215,"raftModelSpacing":0.4,"printMode":"balanced","modelFillProfiles>sparse>pattern":"diamond (fast)","extruderProfiles>0>retractDistance":1,"extruderProfiles>0>retractRate":40}}
