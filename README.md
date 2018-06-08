@@ -7,9 +7,9 @@ list of printer profiles:
   *Pro PLA
 
 list of Printer Profiles in developement:
-*Original Prusa i3
-  *Workday PLA
-*Raise N2
-  *Pro PLA
-*Makerbot 5th gen/Replicator +
-  *Entwined
+* Original Prusa i3
+  * Workday PLA
+* Raise N2
+  * Pro PLA
+* Makerbot 5th gen/Replicator +
+  * Entwined
