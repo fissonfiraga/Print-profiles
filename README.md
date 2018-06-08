@@ -4,7 +4,7 @@ This page is for the compiling of 3DFuel Filament print profiles for various 3D 
 
 list of printer profiles:
 * Makerbot 5th gen/Replicator +
-  * Pro PLA
+  * [Pro PLA](https://github.com/fissonfiraga/Print-profiles/blob/master/propla.printmode)
 
 list of Printer Profiles in developement:
 * Original Prusa i3
