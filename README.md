@@ -7,9 +7,11 @@ list of printer profiles:
   * [Pro PLA](https://github.com/fissonfiraga/Print-profiles/blob/master/propla.printmode)
 * Raise N2
   * [Workday PLA](https://github.com/fissonfiraga/Print-profiles/blob/master/Raise3D/Workday%20PLA%20Raise3D.bin)
-
-list of Printer Profiles in developement:
 * Original Prusa i3
   * [Workday PLA](https://github.com/fissonfiraga/Print-profiles/blob/master/Prusa/PrusaWordayPLA.curaprofile)
+
+list of Printer Profiles in developement:
 * Makerbot 5th gen/Replicator +
+  * Entwined
+* Original Prusa i3
   * Entwined
