@@ -15,4 +15,5 @@ list of Printer Profiles in developement:
 * Makerbot 5th gen/Replicator +
   * Entwined
 * Original Prusa i3
+  * Pro PLA
   * Entwined
