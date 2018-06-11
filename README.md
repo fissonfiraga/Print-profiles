@@ -14,6 +14,7 @@ list of printer profiles:
 list of Printer Profiles in developement:
 * Makerbot 5th gen/Replicator +
   * Entwined
+  * Workday PLA
 * Original Prusa i3
   * Pro PLA
   * Entwined
